@@ -13,7 +13,9 @@
 
 ## 📈 Recent Projects
 
-My most recent project is working in a team to develop a web-based AI tool for a local government, designed to help residents assess shed and patio proposals against planning regulations, receive clear recommendations, and better understand development requirements.
+- Developing a text-based game as part of a personal project called Cherry Blossom: Sakura's Renewal
+- Working in a team to develop a web-based AI tool for a local government, designed to help residents assess shed and patio proposals against planning regulations, receive clear recommendations, and better understand development requirements.
+- Developed a web application to showcase my skills using React, Next.js, and Tailwind CSS.
 
 ## 🔗 Connect with Me
 
