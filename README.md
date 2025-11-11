@@ -1,18 +1,19 @@
 # 👋 Hi there, I'm Sara!
 
-🎓 I'm a **Bachelor of Information Technology** student at La Trobe University, majoring in **Cloud Analytics**.  
+🎓 I'm a **Bachelor of Information Technology** graduate specialising in **Cloud Analytics** and **Web Development**.  
 🌥️ I’m passionate about leveraging cloud technologies and data to solve real-world problems and deliver useful insights.
 
 ## 🧠 Skills & Tools
 
-- 🐍 **Programming**: Python, SQL  
-- 📊 **Data Visualisation**: Tableau, Power BI  
-- ☁️ **Cloud Concepts**: Cloud Analytics, Data Warehousing  
-- 🛠️ **Tools**: GitHub, Jupyter, VS Code, Excel
+- 🐍 **Programming Languages:** Python, SQL, JavaScript
+- 🌐 **Web Development:** React, Next.js, HTML, CSS
+- 📊 **Data Analytics & Visualisation:** Tableau, Power BI, Excel
+- ☁️ **Cloud & Data Infrastructure:** Cloud Analytics, Data Warehousing
+- 🛠️ **Development Tools:** GitHub, Jupyter, VS Code
 
-## 📈 What I'm Working On
+## 📈 Recent Projects
 
-I am currently working with a group of talented individuals to develop a web-based AI tool for a local government, designed to help residents assess shed and patio proposals against planning regulations, receive clear recommendations, and better understand development requirements.
+My most recent project is working in a team to develop a web-based AI tool for a local government, designed to help residents assess shed and patio proposals against planning regulations, receive clear recommendations, and better understand development requirements.
 
 ## 🔗 Connect with Me
 
