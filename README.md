@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Sara!
 
-🎓 I'm a **Bachelor of Information Technology** graduate specialising in **Cloud Analytics** and **Web Development**.  
+🎓 I'm a **Bachelor of Information Technology** graduate specialising in **Data Analytics**, **Cloud Computing**, and **Web Development**.  
 🌥️ I’m passionate about leveraging cloud technologies and data to solve real-world problems, and creating clean, responsive web applications.
 
 ## 🧠 Skills & Tools
